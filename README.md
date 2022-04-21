@@ -1,3 +1,5 @@
+# Googlenet_pretrined_model_real (1).ipynb
+is Image Classification model on Yoga-82 Dataset using GoogleNet Pretrained Model
 # cifar 10.ipynb 
 is a classification task example on cifar 10 dataset.
 # Unsw_nb15.ipynb 
